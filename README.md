@@ -13,7 +13,6 @@
 <h2>Desafio proposto</h2>
 
 <p>Elaborar uma aplicação front-end que se comunique por meio de um socket com o servidor. A aplicação deverá ter o comportamento de um mural de rede social, onde as pessoas usuárias podem trocar mensagens em tempo real.</p>
-
 <br>
 
 <h3>Tecnologias</h3>
