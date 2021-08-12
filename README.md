@@ -1,9 +1,9 @@
 <h1 align="center">Super Heroes List - 🚧 Em desenvolvimento 🚧<h1>
 
-[![Generic badge](https://img.shields.io/badge/Status-Finished-black?style=for-the-badge&logo=appveyor)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Status-Finished-red?style=for-the-badge&logo=appveyor)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Develop-React.js-blue?style=for-the-badge&logo=appveyor)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Develop-Node%20Express-green?style=for-the-badge&logo=appveyor)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Develop-Socket.io-red?style=for-the-badge&logo=appveyor)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Develop-Socket.io-yellow?style=for-the-badge&logo=appveyor)](https://shields.io/)
  
 <h3>Exercício com Web Socket</h3>
 
